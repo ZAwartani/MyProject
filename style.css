@@ -3,4 +3,6 @@ p{
 }
 *{
     background-color: black;
+    padding: 50px;
+    font-size: large;
 }
