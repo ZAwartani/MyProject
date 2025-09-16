@@ -1,0 +1,8 @@
+C:\Users\zakar\OneDrive\Desktop\Project\Manegment Student Project\Manegment Student Project\bin\Debug\Manegment Student Project.exe.config
+C:\Users\zakar\OneDrive\Desktop\Project\Manegment Student Project\Manegment Student Project\bin\Debug\Manegment Student Project.exe
+C:\Users\zakar\OneDrive\Desktop\Project\Manegment Student Project\Manegment Student Project\bin\Debug\Manegment Student Project.pdb
+C:\Users\zakar\OneDrive\Desktop\Project\Manegment Student Project\Manegment Student Project\obj\Debug\Manegment Student Project.csproj.AssemblyReference.cache
+C:\Users\zakar\OneDrive\Desktop\Project\Manegment Student Project\Manegment Student Project\obj\Debug\Manegment Student Project.csproj.CoreCompileInputs.cache
+C:\Users\zakar\OneDrive\Desktop\Project\Manegment Student Project\Manegment Student Project\obj\Debug\Manegment Student Project.exe
+C:\Users\zakar\OneDrive\Desktop\Project\Manegment Student Project\Manegment Student Project\obj\Debug\Manegment Student Project.pdb
+C:\Users\zakar\OneDrive\Desktop\Project\Manegment Student Project\Manegment Student Project\obj\Debug\Manegment Student Project.exe.config
